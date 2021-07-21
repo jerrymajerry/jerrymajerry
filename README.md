@@ -9,4 +9,4 @@
 
 > No slogan
 
-[![Jerry's github stats](https://github-readme-stats.vercel.app/api?username=jerrymajerry)](https://github.com/anuraghazra/github-readme-stats)
+[![Jerry's github stats](https://github-readme-stats.vercel.app/api?username=jerrymajerry&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
