@@ -4,7 +4,7 @@
 
 - 👩‍🎓 A Cyber Security Undergraduate Student.
 - 🌱 Currently learning in Beijing, China.
-- 👯 I’m preparing for Postgraduate entrance examination
+- 👯 I’m preparing for postgraduate entrance examination
 - 📫 How to reach me: 1339442006@qq.com
 
 > No slogan
