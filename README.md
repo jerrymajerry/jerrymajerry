@@ -1,6 +1,6 @@
-### I'm Junrui Ma
+## I'm Junrui Ma
 
-#### About me
+### About me
 
 - 👩‍🎓 A Cyber Security Undergraduate Student.
 - 🌱 Currently learning in Beijing, China.
